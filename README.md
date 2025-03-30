@@ -141,4 +141,4 @@ After training, the robot learns to:
 ## Acknowledgments
 
 - The TD3 algorithm
-- irsim simulation environment
+- Irsim simulation environment

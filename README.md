@@ -20,7 +20,6 @@ The simulation environment is based on the `irsim` library and includes:
 
 ## Dependencies
 
-- Python 3.8+
 - PyTorch
 - NumPy
 - Matplotlib
@@ -141,4 +140,4 @@ After training, the robot learns to:
 ## Acknowledgments
 
 - The TD3 algorithm
-- irsim simulation environment
+- Irsim simulation environment

@@ -20,7 +20,6 @@ The simulation environment is based on the `irsim` library and includes:
 
 ## Dependencies
 
-- Python 3.8+
 - PyTorch
 - NumPy
 - Matplotlib

@@ -140,4 +140,4 @@ After training, the robot learns to:
 ## Acknowledgments
 
 - The TD3 algorithm
-- Irsim simulation environment
+- [Irsim](https://github.com/hanruihua/ir-sim) simulation environment
